@@ -1,4 +1,6 @@
-# C - Binary trees
+# C - Binary trees 
+
+## Author - Wilbert Boadzo
 
 ## In this project I understood the following:
 - `Binary tree`
